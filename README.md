@@ -20,6 +20,21 @@ For each repository, I create multiple branches:
 - the **wip** branch contains modifications ported from my own work or other sources to make this version
   more usable while keeping the same philosophy.
 
+Here is a description of some of the repositories:
+
+- [hboetes-mg](https://github.com/uEmacs/hboetes-mg), a fork of [github.com/hboetes/mg](https://github.com/hboetes/mg)
+  a version maintained by [Han Boetes](https://github.com/hboetes/):
+  Portable version of the OpenBSD maintained mg, micro emacs clone.
+- [ibara-mg](https://github.com/uEmacs/ibara-mg), a fork of [github.com/ibara/mg](https://github.com/ibara/mg)
+  a version by [Brian Callahan](https://github.com/ibara/):
+  OpenBSD Mg editor. Portable Public Domain Micro Emacs for *BSD, Cygwin, Linux, Mac OS X.
+- [troglobit-mg](https://github.com/uEmacs/troglobit-mg), a fork of [github.com/troglobit/mg](https://github.com/troglobit/mg)
+  a version by [Joachim Wiberg](https://github.com/troglobit/):
+  Micro (GNU) Emacs-like text editor ❤️ public-domain
+- [troglobit-uemacs](https://github.com/uEmacs/troglobit-uemacs), a fork of [github.com/troglobit/uemacs](https://github.com/troglobit/uemacs)
+  a repository maintained by [Joachim Wiberg](https://github.com/troglobit/) to host
+  the original MicroEMACS version by [Dave Conroy](https://www.tiredofit.ca/).
+ 
 Feel free to file an [issue](https://github.com/uEmacs/uEmacs/issues)
 or start a [discussion](https://github.com/uEmacs/uEmacs/discussions) if you have questions or suggestions.
 
