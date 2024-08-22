@@ -4,7 +4,7 @@ Welcome to the world of MicroEMACS
 This is a collection of MicroEMACS source code repositories.
 My goal is to keep track of the numerous variants of MicroEMACS that have been developed over the years.
 
-I am Charlie Gordon ([chqrlie](https://github.com/chqrlie), co-auther with [Fabrice Bellard](https://bellard.org/)
+I am Charlie Gordon ([chqrlie](https://github.com/chqrlie), co-author with [Fabrice Bellard](https://bellard.org/)
 ([bellard](https://github.com/bellard)) of our own emacs clone: [QuickEmacs](https://github.com/qemacs).
 This one has no common code with MicroEmacs, but the same goal: provide a functional alternative for 
 developers who cannot or do not want to install GNU Emacs but still want to take advantage of an efficient
