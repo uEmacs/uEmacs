@@ -20,6 +20,7 @@ For each repository, I create multiple branches:
 - the **wip** branch contains modifications ported from my own work or other sources to make this version
   more usable while keeping the same philosophy.
 
-Feel free to file an issue if you have questions or suggestions.
+Feel free to file an [issue](https://github.com/uEmacs/uEmacs/issues)
+or start a [discussion](https://github.com/uEmacs/uEmacs/discussions) if you have questions or suggestions.
 
 chqrlie
