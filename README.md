@@ -33,8 +33,15 @@ Here is a description of some of the repositories:
   Micro (GNU) Emacs-like text editor ❤️ public-domain
 - [troglobit-uemacs](https://github.com/uEmacs/troglobit-uemacs), a fork of [github.com/troglobit/uemacs](https://github.com/troglobit/uemacs)
   a repository maintained by [Joachim Wiberg](https://github.com/troglobit/) to host
-  the original MicroEMACS version by [Dave Conroy](https://www.tiredofit.ca/).
- 
+  the original MicroEMACS version by Dave G. Conroy <!--https://www.tiredofit.ca/-->.
+
+Here is a list of other resources for emacs enthousiasts:
+
+- Lars Brinkhoff's [Historical Emacs Software Preservation](https://github.com/larsbrinkhoff/emacs-history/)
+- The wikipedia article on [MicroEMACS](https://en.wikipedia.org/wiki/MicroEMACS)
+- The homepage for [JASSPA MicroEmacs](http://www.jasspa.com/)
+- The homepage for [Daniel Michael Lawrence](https://www.aquest.com/author.htm)'s [MicroEMACS 5.00](https://www.aquest.com/emacs.htm). Dan passed away on June 7th, 2010.
+
 Feel free to file an [issue](https://github.com/uEmacs/uEmacs/issues)
 or start a [discussion](https://github.com/uEmacs/uEmacs/discussions) if you have questions or suggestions.
 
